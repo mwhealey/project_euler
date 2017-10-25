@@ -1,3 +1,4 @@
 # project_euler
-problems 55 - 65 on Project Euler - 58 and 60 are my favorite
+find problems here: https://projecteuler.net/archives;page=2
+problems 55 - 65 on Project Euler - 58, 60, 61, and 65 are the most interesting 
 
